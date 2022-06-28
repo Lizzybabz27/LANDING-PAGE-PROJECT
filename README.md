@@ -1,5 +1,5 @@
 # PROJECT TITTLE
-## UDACITY LANDING PAGE PROJECT
+## UDACITY LANDING PAGE PROJECT https://lizzybabz27.github.io/LANDING-PAGE-PROJECT/ click here for a quick preview of my project
 
 This Landing Page Project is a Multi-section page that dynamically scroll through each section and automatically updates itself when another section is added to it. 
 It was created inorder to give users easy access to each section as well as an interactive and a beautiful experience. 
